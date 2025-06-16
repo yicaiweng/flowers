@@ -1,0 +1,26 @@
+.flower-container{ 
+    padding-top: 2%;
+    width: 100%;
+}
+
+.flower-container button{ 
+    margin: 10px;
+}
+
+.flower-image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flower-images {
+    display: block;
+    width: 100%;
+}
+
+.moreBtn {
+  margin: 10px auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
